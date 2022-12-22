@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [Filmget](https://filmget.vercel.app)
 
-- 🌱 I’m currently learning **React, TypeScript, Next.js, SQL and Jest**
+- 🌱 I’m currently learning **React, TypeScript, Next.js, MaterialUI, SQL and Jest**
 
 - 📫 How to reach me **bylski.patryk@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1CBV2kjJrBrE21E4E_cY7Lhm5Eg6ShguU/view?usp=sharing](https://drive.google.com/file/d/1CBV2kjJrBrE21E4E_cY7Lhm5Eg6ShguU/view?usp=sharing)
 
-- ⚡ Fun fact **You can't hum if you hold your nose. You tried it right?**
+- ⚡ Fun fact **Humans can glow in the dark, however, they are too weak for the human eye to detect.**
 
 
 <h3 align="left">Languages and Tools:</h3>
