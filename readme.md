@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bylski&label=Profile%20views&color=0e75b6&style=flat" alt="bylski" /> </p>
 
-- 🔭 I’m currently working on [Filmget](https://filmget.vercel.app)
+- 🔭 I’m currently working on [GuitarReactv2](https://guitarreactv2.vercel.app/)
 
 - 🌱 I’m currently learning **React, TypeScript, Next.js, MaterialUI, SQL and Jest**
 
