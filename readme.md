@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **bylski.patryk@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CBV2kjJrBrE21E4E_cY7Lhm5Eg6ShguU/view?usp=sharing](https://drive.google.com/file/d/1CBV2kjJrBrE21E4E_cY7Lhm5Eg6ShguU/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1R6w5S1f3MZQ_GknezhPEJDkdywEWUC1n/view?usp=sharing
 
 - ⚡ Fun fact **Humans can glow in the dark, however, they are too weak for the human eye to detect.**
 
