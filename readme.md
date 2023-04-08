@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [GuitarReactv2](https://guitarreactv2.vercel.app/)
 
-- 🌱 I’m currently learning **PHP, SQL and Jest**
+- 🌱 I’m currently learning **PHP, mySQL, MVC**
 
 - 📫 How to reach me **bylski.patryk@gmail.com**
 
